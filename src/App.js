@@ -27,7 +27,7 @@ function App(props) {
         });
       break;
       default:
-        case 'success':
+        case '':
         notification[type]({
           message: '',
           description: ''
